@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "dhry.h": "c",
+        "string.h": "c",
+        "sc_print.h": "c",
+        "uart.h": "c"
+    },
+    "scr.ide.scdtPath": "C:\\sc-dt"
+}

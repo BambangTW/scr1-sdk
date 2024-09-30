@@ -117,7 +117,7 @@ int	argc;
 char	*argv[];
   /* main program, corresponds to procedures        */
   /* Main and Proc_0 in the Ada version             */
-{
+{1
 #ifdef SELF_TIMED
         int             Number_Of_Runs;
 #else /* SELF_TIMED */
