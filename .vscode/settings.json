@@ -5,5 +5,6 @@
         "sc_print.h": "c",
         "uart.h": "c"
     },
-    "scr.ide.scdtPath": "C:\\sc-dt"
+    "scr.ide.scdtPath": "C:\\sc-dt",
+    "cmake.sourceDirectory": "D:/fpga_project/ALTERA/scr1-sdk/sw/zephyr"
 }
